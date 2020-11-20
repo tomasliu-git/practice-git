@@ -1,0 +1,17 @@
+/target/
+#idea file
+.idea
+*.iml
+*/*.iml
+
+#Log file
+*.log
+
+#eclipse project file
+.settings
+.classpath
+.project
+
+.bak
+.tem
+.swp
